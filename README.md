@@ -17,4 +17,4 @@ test for git book
 
 ---
 
-![image](http://kyrieko.dothome.co.kr/images/first.jpg)
+![image](./images/background.jpg)
