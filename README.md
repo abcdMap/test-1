@@ -3,7 +3,7 @@ test for git book
 
 ---
 
-[markdown 사용법 링크](http://help.github.com/en/articles/basic-writing-and-formatting-syntax, "alt")
+[markdown 사용법 링크](http://help.github.com/en/articles/basic-writing-and-formatting-syntax "alt")
 
 ---
 
